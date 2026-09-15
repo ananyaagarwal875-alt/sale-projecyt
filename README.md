@@ -1,2 +1,2 @@
-# sale-projecyt
+# sale-project
 sale data analysis
